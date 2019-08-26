@@ -1,0 +1,1 @@
+cat start.sh test.jar > app.run && chmod +x app.run
